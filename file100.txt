@@ -12,5 +12,4 @@ remote change from my branch
 
 
 
-remote edit to create conflict
 
