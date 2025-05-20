@@ -1,2 +1,16 @@
-Local change from master branch
+Local change from my branch
+
+
+
+
+
+
+
+
+
+
+
+
+
+remote edit to create conflict
 
